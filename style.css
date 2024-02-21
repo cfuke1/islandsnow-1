@@ -2,3 +2,8 @@ footer {
   background-color: #292929;
   color: white;
 }
+
+.navbar-custom {
+  background-color: yellow;
+  color: yellow;
+}
