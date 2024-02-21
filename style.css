@@ -7,3 +7,14 @@ footer {
   background-color: yellow;
   color: yellow;
 }
+
+h1 {
+  color: darkred;
+  font-size: 16px;
+}
+
+.image {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
